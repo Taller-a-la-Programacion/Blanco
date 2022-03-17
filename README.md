@@ -1,4 +1,4 @@
-# [NOMBRE DEL PROYECTO]
+# [NOMBRE DEL PROYECTO o TAREA]
 ### Carné y Nombre por integrante
 
 ### Estado del proyecto: [Malo|Regular|Buena|MuyBuena|Excelente|Superior **]
