@@ -1,7 +1,6 @@
 # [NOMBRE DEL PROYECTO]
-### Nombre: 
-### Carné:
+### Carné y Nombre por integrante
 
-### Estado del proyecto:
+### Estado del proyecto: [Malo|Regular|Buena|MuyBuena|Excelente|Superior **]
 ### Enlace del video:
 Recordar que el video debe ser público para ser visto por el profesor
